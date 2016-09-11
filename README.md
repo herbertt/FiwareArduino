@@ -1,6 +1,6 @@
 # FiwareArduino
 
-For comunication with arduino this tutorial uses Fiware tecnologies.
+For comunication with arduino this tutorial uses Orion Context Broker of the Fiware tecnologies.
 The Fiware platform include open source software enablers that allow easy
 development of Smart cities and IoT solutions.
 You may find more informations on the following links:
