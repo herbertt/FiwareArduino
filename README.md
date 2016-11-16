@@ -13,3 +13,5 @@ This interfaces uses the REST-API to accept update and query commands for
 wirte and read operations. The following figure presents the schematic architecture 
 of our tutorial, where Arduino sends NGSI notifications by ESP8266 module to Orion
 Context Broker allowing applications subscriptions.
+
+Tutorial of the Hackester.io: https://www.hackster.io/user425778085/arduino-and-fiware-technology-13462a?ref=user&ref_id=100238&offset=0
